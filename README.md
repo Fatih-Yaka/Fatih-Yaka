@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I have experience in electrical maintenance and repair.
+I’m currently learning Unity and C#.
+I develop VR training applications for workplace safety and assembly.
+I’m always exploring new technologies and problem-solving methods.
 <!--
 **Fatih-Yaka/Fatih-Yaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
